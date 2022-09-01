@@ -1,3 +1,13 @@
+# Shiva Sai Vummaji's First CS193 Homework 
+
+# My Favorite Things about CS193
+- I want to learn about how to use the terminal
+- I want to open and flex with the terminal in Starbucks 
+- I like the T.As and the format of this class
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
